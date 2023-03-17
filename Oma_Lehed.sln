@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oma_Lehed.Android", "Oma_Lehed.Android\Oma_Lehed.Android.csproj", "{BA1EE31F-4372-4A1C-A5E6-8952D5A2AE21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oma_Lehed", "Oma_Lehed\Oma_Lehed.csproj", "{C8840018-5282-4F91-A14C-992B73FEB404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA1EE31F-4372-4A1C-A5E6-8952D5A2AE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1EE31F-4372-4A1C-A5E6-8952D5A2AE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1EE31F-4372-4A1C-A5E6-8952D5A2AE21}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BA1EE31F-4372-4A1C-A5E6-8952D5A2AE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1EE31F-4372-4A1C-A5E6-8952D5A2AE21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1EE31F-4372-4A1C-A5E6-8952D5A2AE21}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C8840018-5282-4F91-A14C-992B73FEB404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8840018-5282-4F91-A14C-992B73FEB404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8840018-5282-4F91-A14C-992B73FEB404}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C8840018-5282-4F91-A14C-992B73FEB404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8840018-5282-4F91-A14C-992B73FEB404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8840018-5282-4F91-A14C-992B73FEB404}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {144EAF59-A001-4073-B8C3-4875C3F8BD76}
+	EndGlobalSection
+EndGlobal
