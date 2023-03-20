@@ -83,7 +83,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\icon.ico" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Oma_Lehed\Oma_Lehed.csproj">
       <Project>{11E9A9BC-979C-4986-9186-FBD6C8025234}</Project>
